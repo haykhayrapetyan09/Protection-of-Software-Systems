@@ -29,9 +29,6 @@ string encode(string& str){
     return out;
 }
 
-// string decode(string& encoded){
-//     return str;
-// }
 
 int main()
 {
@@ -42,7 +39,5 @@ int main()
     string encoded = encode(str);
     cout << encoded << endl;
     
-    // string decoded = decode(encoded);
-    // cout << decoded << endl;
     return 0;
 }
