@@ -6,7 +6,7 @@ class Date{
         int day;
         int month;
         int year;
-        a
+        
     public:
         Date(){
             cout << "Creating date" <<endl;
