@@ -1,8 +1,9 @@
 #pragma once
 #include <iostream>
+#include "Encoder.h"
 using namespace std;
 
-class ASCIIEncoder
+class ASCIIEncoder : public Encoder
 {
 public:
     string encode(string& text, int& k);

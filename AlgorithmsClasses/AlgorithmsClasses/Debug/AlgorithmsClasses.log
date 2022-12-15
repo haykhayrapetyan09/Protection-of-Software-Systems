@@ -1,24 +1,17 @@
-﻿  Main.cpp
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\Helper.h(23,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+﻿  ASCIIEncoder.cpp
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\ASCIIEncoder.cpp(6,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\ASCIIEncoder.cpp(14,23): warning C4018: '<': signed/unsigned mismatch
+  Encoder.cpp
+  Main.cpp
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\Helper.h(23,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\Main.cpp(57,10): warning C4101: 'out': unreferenced local variable
+  RLEEncoder.cpp
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\RLEEncoder.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\RLEEncoder.cpp(13,27): warning C4018: '<': signed/unsigned mismatch
   ShablonEncoder.cpp
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\Helper.h(23,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\ShablonEncoder.cpp(6,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\Helper.h(23,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\ShablonEncoder.cpp(6,23): warning C4018: '<': signed/unsigned mismatch
   TransposeEncoder.cpp
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\Helper.h(23,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(10,14): error C2131: expression did not evaluate to a constant
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(10,14): message : failure was caused by a read of a variable outside its lifetime
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(10,14): message : see usage of 'M'
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(10,17): error C2131: expression did not evaluate to a constant
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(10,17): message : failure was caused by a read of a variable outside its lifetime
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(10,17): message : see usage of 'N'
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(10,31): error C2131: expression did not evaluate to a constant
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(10,31): message : failure was caused by a read of a variable outside its lifetime
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(10,31): message : see usage of 'N'
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(10,34): error C2131: expression did not evaluate to a constant
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(10,34): message : failure was caused by a read of a variable outside its lifetime
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(10,34): message : see usage of 'M'
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(14,23): error C3863: array type 'char [M][N]' is not assignable
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(21,25): warning C4552: '<<': result of expression not used
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(29,29): error C3863: array type 'char [N][M]' is not assignable
-C:\Users\Hayk\Desktop\AlgorithmsClasses\AlgorithmsClasses\TransposeEncoder.cpp(35,25): warning C4552: '<<': result of expression not used
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\Helper.h(23,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   Generating Code...
+  AlgorithmsClasses.vcxproj -> C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\Debug\AlgorithmsClasses.exe

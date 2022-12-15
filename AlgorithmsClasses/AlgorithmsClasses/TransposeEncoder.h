@@ -1,8 +1,9 @@
 #pragma once
 #include "Helper.h"
+#include "Encoder.h"
 #include <iostream>
 
-class TransposeEncoder
+class TransposeEncoder : public Encoder
 {
 public:
     int m;

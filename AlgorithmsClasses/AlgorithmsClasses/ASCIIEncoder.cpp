@@ -1,3 +1,4 @@
+#include "Encoder.h"
 #include "ASCIIEncoder.h"
 
 string ASCIIEncoder::encode(string& text, int& k) {

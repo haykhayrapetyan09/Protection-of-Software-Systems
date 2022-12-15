@@ -140,15 +140,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ASCIIEncoder.cpp" />
+    <ClCompile Include="Encoder.cpp" />
     <ClCompile Include="GCD.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="RLEEncoder.cpp" />
     <ClCompile Include="ShablonEncoder.cpp" />
     <ClCompile Include="TransposeEncoder.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ASCIIEncoder.h" />
+    <ClInclude Include="Encoder.h" />
     <ClInclude Include="GCD.h" />
     <ClInclude Include="Helper.h" />
+    <ClInclude Include="RLEEncoder.h" />
     <ClInclude Include="ShablonEncoder.h" />
     <ClInclude Include="TransposeEncoder.h" />
   </ItemGroup>
