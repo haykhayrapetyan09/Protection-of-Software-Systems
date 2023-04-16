@@ -6,7 +6,7 @@ TransposeEncoder::TransposeEncoder(int m, int n) {
 }
 
 string TransposeEncoder::encode(string& text, int& M, int& N) {
-    /*string encoded = "";
+    string encoded = "";
     char arr[M][N], transpose[N][M];
     int i = 0;
     for (int m = 0; m < M; m++) {
@@ -43,6 +43,6 @@ string TransposeEncoder::encode(string& text, int& M, int& N) {
         }
     }
 
-    return encoded;*/
+    return encoded;
     return "";
 }
